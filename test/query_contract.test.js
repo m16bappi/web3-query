@@ -1,6 +1,6 @@
 const Web3 = require("web3");
 const QueryContract = artifacts.require("QueryContract");
-const address = require("./address");
+const address = require("./mock/mock_address");
 const web3 = new Web3();
 
 contract("QueryContract", () => {
