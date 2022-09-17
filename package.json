@@ -1,0 +1,9 @@
+{
+  "name": "web3-chainlink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
+}
