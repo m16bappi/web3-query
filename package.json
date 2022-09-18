@@ -1,5 +1,5 @@
 {
-  "name": "web3-chainlink",
+  "name": "web3-query",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
